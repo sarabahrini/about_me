@@ -1,7 +1,15 @@
 *{
     color:blue; 
 }
-
+.Experience{
+    margin-left: 20px;
+    font-size: 18px;
+    font:bolder;
+}
+.Projects{
+    font-size: 14px;
+    color:black;
+}
 .left {
     margin-left:500px;
 }
